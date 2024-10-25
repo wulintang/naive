@@ -26,7 +26,7 @@ NAiVe · 无聊人的中继站。图标修改自熊大的 <https://the.boring.st
 <a href="https://github.com/xuanxuan666niupi666" title="XCATX"><img src="https://avatars.githubusercontent.com/u/86157698?v=4" width="66;" alt="XCATX"/></a>
 <a href="https://github.com/SaboZhang" title="SaboZhang"><img src="https://avatars.githubusercontent.com/u/34998007?v=4" width="66;" alt="SaboZhang"/></a>
 <a href="https://github.com/maolog" title="Mauzhu"><img src="https://avatars.githubusercontent.com/u/17608225?v=4" width="66;" alt="Mauzhu"/></a>
-<a href="https://github.com/everfu" title="一小只托尼"><img src="https://avatars.githubusercontent.com/u/74389842?v=4" width="66;" alt="一小只托尼"/></a>
+<a href="https://github.com/everfu" title="王卓"><img src="https://avatars.githubusercontent.com/u/74389842?v=4" width="66;" alt="王卓"/></a>
 <a href="https://github.com/CasearF" title="Caesar"><img src="https://avatars.githubusercontent.com/u/75901800?v=4" width="66;" alt="Caesar"/></a>
 <a href="https://github.com/lingdu2333" title="澪度"><img src="https://avatars.githubusercontent.com/u/117048039?v=4" width="66;" alt="澪度"/></a>
 <a href="https://github.com/longchunxin" title="longchunxin"><img src="https://avatars.githubusercontent.com/u/169962016?v=4" width="66;" alt="longchunxin"/></a>
